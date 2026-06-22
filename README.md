@@ -1,2 +1,2 @@
 # my-first-python-project
-First day learning Python
+My first programming projects in Python using logic, lists, and random choices.
