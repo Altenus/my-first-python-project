@@ -76,8 +76,13 @@ print("""
 =============================================
 """)
 
-print(f"***ESTADISTICAS NUMERICAS***\n ->⚔️ATAQUE BASE: {ataque_Base}\n ->🚀MULTIPLICADOR: {multiplicador_De_Fuerza}X\n "
-      f"->💥DANO_TOTAL: {Dano_Total} puntos.\n")
+print(f"""***ESTADISTICAS NUMERICAS*** 
+
+->⚔️ATAQUE BASE: {ataque_Base} 
+->🚀MULTIPLICADOR: {multiplicador_De_Fuerza}X 
+
+ f"->💥DANO_TOTAL: {Dano_Total} puntos.""")
+
 print("===============================================")
 
 # Added nested interactive menus, dynamic power modifiers, and pre-initialized global variables.⬇️
