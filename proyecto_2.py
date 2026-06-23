@@ -52,6 +52,8 @@ print(f"\"{opcion1} {final}\" ")
 
 print()
 
+# Day 2 I added Stats and damage calculator
+
 print("[NUEVAS PREGUNTAS DIA 2...]")
 print()
 ataque_Base = int(input("Ingresa el Ataque Base: " ))
