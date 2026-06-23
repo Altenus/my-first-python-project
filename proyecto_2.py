@@ -49,3 +49,23 @@ else:
 
 
 print(f"\"{opcion1} {final}\" ")
+
+print()
+
+print("[NUEVAS PREGUNTAS DIA 2...]")
+print()
+ataque_Base = int(input("Ingresa el Ataque Base: " ))
+print()
+multiplicador_De_Fuerza = float(input("Ingresa el multiplicador de Fuerza: "))
+print()
+Dano_Total = int(ataque_Base * multiplicador_De_Fuerza)
+
+print("""
+=============================================
+         FICHA DEL HEROE ACTUALIZADA        
+=============================================
+""")
+
+print(f"***ESTADISTICAS NUMERICAS***\n ->ATAQUE BASE: {ataque_Base}\n ->MULTIPLICADOR: {multiplicador_De_Fuerza}X\n "
+      f"->DANO_TOTAL: {Dano_Total} puntos.\n")
+print("===============================================")
