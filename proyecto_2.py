@@ -79,6 +79,7 @@ print("""
 print(f"""***ESTADISTICAS NUMERICAS*** 
 
 ->⚔️ATAQUE BASE: {ataque_Base} 
+
 ->🚀MULTIPLICADOR: {multiplicador_De_Fuerza}X 
 
  f"->💥DANO_TOTAL: {Dano_Total} puntos.""")
