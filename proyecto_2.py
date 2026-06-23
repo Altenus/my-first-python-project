@@ -82,7 +82,7 @@ print(f"""***ESTADISTICAS NUMERICAS***
 
 ->🚀MULTIPLICADOR: {multiplicador_De_Fuerza}X 
 
- f"->💥DANO_TOTAL: {Dano_Total} puntos.""")
+ ->💥DANO_TOTAL: {Dano_Total} puntos.""")
 
 print("===============================================")
 
